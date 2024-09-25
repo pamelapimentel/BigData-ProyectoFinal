@@ -1,0 +1,9 @@
+{
+	"name": "ppimentelcertus123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1e50f376-3c95-40e4-9828-c1fdeab46bed",
+		"tenantId": "f2692636-5d67-4202-bc00-890802849494"
+	}
+}
